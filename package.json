@@ -1,0 +1,20 @@
+{
+  "name": "strava-export-all",
+  "version": "0.0.0",
+  "description": "All Strava Routes into a big GeoJSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "strava-export-all": "index.js"
+  },
+  "repository": "git@github.com:tmcw/strava-export-all.git",
+  "author": "Tom MacWright <tom@macwright.org>",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.21.0",
+    "optimist": "~0.5.2",
+    "queue-async": "~1.0.3"
+  }
+}
