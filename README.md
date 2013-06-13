@@ -8,7 +8,7 @@ Right now uses [John Keefe](http://johnkeefe.net/)'s excellent [Multiple Ride Ma
 
 ### usage
 
-    npm install strava-export-all
+    npm install -g strava-export-all
 
 In which `3` is your rider ID, which you can get from your user profile page.
 

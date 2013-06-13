@@ -9,6 +9,7 @@
   "bin": {
       "strava-export-all": "index.js"
   },
+  "preferGlobal": true,
   "repository": "git@github.com:tmcw/strava-export-all.git",
   "author": "Tom MacWright <tom@macwright.org>",
   "license": "BSD",
