@@ -14,8 +14,8 @@
   "author": "Tom MacWright <tom@macwright.org>",
   "license": "BSD",
   "dependencies": {
-    "request": "~2.21.0",
-    "optimist": "~0.5.2",
-    "queue-async": "~1.0.3"
+    "request": "~2.81.0",
+    "optimist": "~0.6.1",
+    "queue-async": "~1.2.1"
   }
 }
